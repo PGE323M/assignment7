@@ -1,6 +1,6 @@
 # Homework Assignment 7
 
-![Assignment 7](https://github.com/PGE323M/assignment7-solution/workflows/.github/workflows/main.yml/badge.svg)
+![Assignment 7](https://github.com/PGE323M/assignment7/workflows/.github/workflows/main.yml/badge.svg)
 
 Open the [Assignment 7 Jupyter Notebook](assignment7.ipynb) and follow the instructions.
 
